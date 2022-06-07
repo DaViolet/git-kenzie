@@ -1,0 +1,38 @@
+html{
+    font-family: poppins;
+}
+
+span {
+    color: blue;
+}
+
+li {
+    text-decoration-line: underline;
+}
+
+
+.background-blue{
+    background-color: blue;
+    color: white;
+    padding: 8px;
+}
+
+.background-black{
+    background-color: black;
+    color: white;
+    padding: 8px;
+}
+
+.title-main{
+    font-size: 32px;
+    font-family: 'Poppins';
+    padding: 8px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.title-main.text-center{
+
+}
